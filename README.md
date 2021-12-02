@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [felipekirchbaner.dev](https://github.com/felipekirchbaner?tab=repositories)
 
-- ⚽ I'm a brazilian soccer player
+- ⚽ I like to play football
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
 
