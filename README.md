@@ -45,5 +45,3 @@
  <img align="center" src="https://img.shields.io/badge/-luizfelipekirchbaner-05122A?style=flat&logo=facebook" alt="facebook"/>
 </a>
 </p>
-
-<img width="500em" src="https://github-readme-linkedin-gazf.vercel.app/api?id=luizfelipekirchbaner&layout=wide&show_reply=off&show_retweet=off" />
