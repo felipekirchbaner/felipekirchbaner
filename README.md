@@ -3,17 +3,15 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luiz Felipe</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipekirchbaner&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Fullstack Web Developer
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- 🔭 I’m currently working at [Kolina Labs](https://github.com/kolinalabs)
 
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
+- 👨‍💻 All of my projects are available at [felipekirchbaner.dev](https://github.com/felipekirchbaner?tab=repositories)
 
-- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- ⚽ I'm a brazilian soccer player
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
 
 <br><br>
 
