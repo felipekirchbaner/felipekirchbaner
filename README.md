@@ -36,13 +36,13 @@
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/luiz-felipe-kirchbaner-7496b91aa/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-luizfelipekirchbaner-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/luizfelipekirchbaner" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-luizfelipekirchbaner-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+<a href="https://www.facebook.com/luizfelipe.kirchbaner.1/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-luizfelipekirchbaner-05122A?style=flat&logo=facebook" alt="facebook"/>
 </a>
 </p>
 
