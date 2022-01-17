@@ -5,7 +5,7 @@
 
 - 🔥 Fullstack Web Developer
 
-- 🔭 I’m currently working at [Kolina Labs](https://github.com/kolinalabs)
+- 🔭 I’m currently working at [Viasoft](https://viasoft.com.br/)
 
 - 👨‍💻 All of my projects are available at [felipekirchbaner.dev](https://github.com/felipekirchbaner?tab=repositories)
 
