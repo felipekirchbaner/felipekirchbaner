@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/felipekirchbaner/b3da3e6ee5fa74190c50e142c6b085c3/raw/cd73718d4b5bba566bd44a286e895a90be35e499/githubcard.svg"/>
+<img align="right" height="290em" src="https://raw.githubusercontent.com/gist/felipekirchbaner/b3da3e6ee5fa74190c50e142c6b085c3/raw/cd73718d4b5bba566bd44a286e895a90be35e499/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luiz Felipe</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipekirchbaner&color=yellow" alt="Profile views" /> </p>
 
